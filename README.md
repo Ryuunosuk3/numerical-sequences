@@ -6,8 +6,9 @@ No modules are required, this is only a simple function just in case someone wou
 Here are the parameters and what they mean:
 
   - `n` (int): The number `u0` - or what the first value of the series - will be equal to.
-  - `u_var` (str): The `un` operation, like for example `3n+2`. (CAUTION: Please note that in order for the code to work, all math symbols must be included (ex. `3n+2`->`3*n+2`)
-  - `nb_rpt` (int): `The nb_rpt` amount of series that will be displayed (ex. `10` -> `u0 + u1 + u2 + ... + u10`)
+  - `u_var` (str): The `un` operation, like for example `3n+2`. (CAUTION: Please note that in order for the code to work, all math symbols must be included (ex. `3n+2`->`3*n+2`))
+  - `nb_rpt` (int): `The nb_rpt` amount of series that will be displayed
+    (ex. `10` -> `u0 + u1 + u2 + ... + u10`)
 
  ### Here is an example:
   
