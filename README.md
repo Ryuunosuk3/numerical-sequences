@@ -1,4 +1,4 @@
-# PYTHON NUMERICAL SERIES
+# Python Numerical Series
 
 This script displays a numerical sequence based on parameters defined by the user.
 
@@ -13,6 +13,6 @@ Here are the parameters and what they mean:
   
   series(10, 'n + 3', '3')
   -  u0 = 10 (n + 3)
-     u1 = 13
-     u2 = 16
-     u3 = 19
+  -  u1 = 13
+  -  u2 = 16
+  -  u3 = 19
