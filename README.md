@@ -12,7 +12,7 @@ Here are the parameters and what they mean:
 
  ### Here is an example:
   
-  series(10, 'n + 3', '3')
+  series(10, 'n + 3', 3)
   -  u0 = 10 (n + 3)
   -  u1 = 13
   -  u2 = 16
